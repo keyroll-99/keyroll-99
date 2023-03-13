@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Karol, currently I'm full-stack developer. 
+I'm Karol, I'm full-stack developer. 
 
 🔭 I’m currently working on:
   * Nuget pacakge SqlScriptRunner - released, currently I focus on optimized size of package (https://www.nuget.org/packages/SqlScriptRunner)
