@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**keyroll-99/keyroll-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Karol, currently I'm full-stack developer. 
 
-Here are some ideas to get you started:
+🔭 I’m currently working on:
+  * Nuget pacakge SqlScriptRunner - released, currently I focus on optimized size of package (https://www.nuget.org/packages/SqlScriptRunner)
+  * Travel-ways, it's a group student project - Work in progress (https://travel-ways.azurewebsites.net/)
+  * Ship game - a small student project, where I have to use python to create a ship game
+  * BEng Thesis - currenlty I'm planning architecture
+  
+🌱 I’m currently learning: 
+  * Software architecture
+  * .NET
+  * TS
+  * JS
+  * React
+   
+📫 How to reach me:
+  * [Email](mailto:kazmierczakkarol1999@gmail.com)
+  * [Linkedin](https://www.linkedin.com/in/karol-ka%C5%BAmierczak-2798141a5/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current stack: \
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,js,ts,react,azure,git,mysql,postgres,vite&perline=12)](https://skillicons.dev)
