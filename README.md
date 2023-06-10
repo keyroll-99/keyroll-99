@@ -13,7 +13,7 @@ I'm Karol, I'm full-stack developer.
   * React
 
 🏁 I'm done
- * Travel-ways, it's a group student project - Work in progress [project repo](https://github.com/TravelerWays/TravelWaysApi)
+ * Travel-ways, it's a group student project [project repo](https://github.com/TravelerWays/TravelWaysApi)
  * Ship game - a small student project, where I have to use python to create a ship game [Client repo](https://github.com/keyroll-99/shipGame), [Server repo](https://github.com/keyroll-99/shipGameServer)
    
 📫 How to reach me:
