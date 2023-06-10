@@ -11,7 +11,6 @@ I'm Karol, I'm full-stack developer.
   * Software architecture
   * .NET
   * TS
-  * JS
   * React
    
 📫 How to reach me:
