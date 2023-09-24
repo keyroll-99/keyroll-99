@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-I'm Karol, I'm full-stack developer. 
+I'm Karol and I'm also fullstack developer. 
 
 🔭 I’m currently working on:
   * Nuget pacakge SqlScriptRunner - released, currently I focus on optimized size of package, and I want to separate this package to few smaller packages [nuget](https://www.nuget.org/packages/SqlScriptRunner)
-  * BEng Thesis - currenlty I'm planning architecture
+  * BEng Thesis - [Repo](https://github.com/keyroll-99/CargoPlanner)
   
 🌱 I’m currently learning: 
   * Software architecture
   * .NET
   * TS
   * React
+  * Angular
 
 🏁 I'm done
  * Travel-ways, it's a group student project [project repo](https://github.com/TravelerWays/TravelWaysApi)
