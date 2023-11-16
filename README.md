@@ -23,4 +23,4 @@ I'm Karol and I'm also fullstack developer.
   * [Linkedin](https://www.linkedin.com/in/karol-ka%C5%BAmierczak-2798141a5/)
 
 My current stack: \
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,js,ts,react,azure,git,mysql,postgres,vite&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,js,ts,react,angular,azure,git,mysql,postgres,vite&perline=12)](https://skillicons.dev)
