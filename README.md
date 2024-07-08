@@ -5,7 +5,6 @@ I'm Karol and I'm also fullstack developer.
 🔭 I’m currently working on:
   * Nuget package SqlScriptRunner - released, currently I focus on the optimized size of the package, and I want to separate this package to a few smaller packages [nuget](https://www.nuget.org/packages/SqlScriptRunner)
   * Nuget package Result - a package that is supposed to help return errors without throwing an exception
-  * BEng Thesis - [Repo](https://github.com/keyroll-99/CargoPlanner)
   
 🌱 I’m currently learning: 
   * Software architecture
